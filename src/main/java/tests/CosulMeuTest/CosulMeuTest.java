@@ -20,7 +20,7 @@ public class CosulMeuTest extends BaseTest {
         //Variabile definite pentru introducere specifica a anumitor valori in fieldurile definite.
 
         String email = "razvan.donosa@gmail.com";
-        String parola = "?Azimut2023";
+        String parola = "";
         String producator = "Benzar";
         String produs = "Morunas Mreana Scobar";
         String cantitate = "3";
