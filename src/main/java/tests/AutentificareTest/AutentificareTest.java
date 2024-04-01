@@ -13,7 +13,7 @@ public class AutentificareTest extends BaseTest { //Mosteneste din Clasa Best Te
 
     //Variabile definite pentru introducere specifica a anumitor valori in fieldurile definite.
     String email = "razvan.donosa@gmail.com";
-    String parola = "?Azimut2023";
+    String parola = "";
     String strada = "Test";
 
     String judet = "Cluj";
