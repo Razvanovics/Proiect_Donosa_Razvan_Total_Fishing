@@ -17,7 +17,7 @@ public class ContNouTest extends BaseTest {
     String prenume = "Razvan";
     String nume = "Azimut";
     String email = "razvan.azimut@gmail.com";
-    String parola = "?Azimut1992";
+    String parola = "";
 
 
     @Test
